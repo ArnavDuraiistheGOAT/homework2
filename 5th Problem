@@ -1,0 +1,4 @@
+def octal_to_decimal(n):
+    return int(str(n), 8)
+
+print(octal_to_decimal(94))
