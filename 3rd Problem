@@ -1,0 +1,3 @@
+def decimal_to_hexadecimal(n):
+    return (hex(n)[2:]).upper()
+print(decimal_to_hexadecimal(94))
